@@ -1,4 +1,4 @@
-<h1 align="center">👋, Hı I'm Fatma Demirel</h1>
+
 <h1 align="center">👋, Hi I'm Fatma Demirel</h1>
 <h3 align="center">Software Engineer | Flutter Developer | Mobile Application Developer  </h3>
 
